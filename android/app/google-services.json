@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788126271961",
+    "project_id": "udemycourse-144e6",
+    "storage_bucket": "udemycourse-144e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788126271961:android:c7954e71bfc1a770ae71c8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788126271961-fr6hjai6dtgprjemh2nsbqji6hrjpdml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_social_app",
+            "certificate_hash": "ad14de9601fc985429dd76349b578150e5fcfb4a"
+          }
+        },
+        {
+          "client_id": "788126271961-a319hi3pm5sb6hkbusee85qftv5vivpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWW6OnHMBoP_db5zyDfzs_xqjWPqfWe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788126271961-a319hi3pm5sb6hkbusee85qftv5vivpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
